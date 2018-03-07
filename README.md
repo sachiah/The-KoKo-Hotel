@@ -1,2 +1,7 @@
 # The-KoKo-Hotel
-practice app for learnteachcode
+practice app for learnteachcode class
+
+
+
+
+
